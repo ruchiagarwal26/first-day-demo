@@ -1,0 +1,13 @@
+.flex-learn {
+    display: flex;
+    background-color: blueviolet;
+    padding: 20px;
+}
+
+.flex-learn > div {
+background-color: brown;    
+color : wheat;
+border: 5px wheat solid;
+padding: 10px;
+
+}
